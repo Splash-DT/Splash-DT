@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
-**Splash-DT/Splash-DT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yasser-Alnajjar/Yasser-Alnajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Front End Developer
+My Name's Yasser ,
+23 Years Old.
+I have 3 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment.
+I enjoy building great Arabic content and helping others do the same.
+
+## Languages and Tools
+
+<div  >
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,jquery,angular,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+<br/>
+</div>
