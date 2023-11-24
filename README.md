@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Front End Developer
-My Name's Yasser ,
-23 Years Old.
+we are developer team
 I have 3 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment.
 I enjoy building great Arabic content and helping others do the same.
 
